@@ -9,6 +9,6 @@ studying at Kingsborough Community College.
 - 🛠️ [IAM Analyzer](github.com/bathed/iam-analyzer) - AWS IAM unused permissions detector (Go)
 - 📝 Bug reports: [kompotai/bug-reports](github.com/kompotai/bug-reports) (Issues #984, #987-#991)
 
-**Certifications:** Security+, Network+, A+, SC-900
+**Certifications:** Security+, Network+, A+
 
 Open to entry-level cybersecurity opportunities in NYC.
