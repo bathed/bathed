@@ -11,4 +11,4 @@ studying at Kingsborough Community College.
 
 **Certifications:** Security+, Network+, A+
 
-Open to entry-level cybersecurity opportunities in NYC.
+Open to entry-level cybersecurity opportunities
